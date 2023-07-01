@@ -41,11 +41,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _depth: 0.4
-    - _displacement: 0.5
+    - _displacement: 0.05
     - _fadeStrength: 0.92
     - _smoothness: 1
-    - _strength: 0.59
-    - _waveSpeed: 10
+    - _strength: 0.24
+    - _waveSpeed: 2
     m_Colors:
     - _deepColour: {r: 0.26666668, g: 0.33473378, b: 0.5019608, a: 0.7294118}
     - _shallowColour: {r: 0.6386317, g: 0.7644575, b: 0.9716981, a: 0.4745098}
